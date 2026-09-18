@@ -6,7 +6,7 @@ This repo contains my response to the simulated quarter end business operation c
 
 1. Enterprise contract provisional failure. 
 
-2. Nation =wide #PL fulfillment outage affecting 1200+ orders. 
+2. Nationwide 3PL fulfillment outage affecting 1200+ orders. 
 
 3. Vendor payment data corruption. 
 
@@ -34,5 +34,6 @@ I also propose a process improvement so that we can outline these edge case scen
 
 ## **Files** 
 
-Business_Operations_Crisis_Response_Plan.pdf – Full operational response plan Compliance_Provisoning_Decision.md – Bonus decision note 
+Business_Operations_Crisis_Response_Plan.pdf – Full operational response plan 
+Compliance_Provisoning_Decision.md – Bonus decision note 
 
