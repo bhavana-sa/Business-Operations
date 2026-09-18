@@ -34,6 +34,6 @@ I also propose a process improvement so that we can outline these edge case scen
 
 ## **Files** 
 
-Business_Operations_Crisis_Response_Plan.pdf – Full operational response plan 
-Compliance_Provisoning_Decision.md – Bonus decision note 
+- Business_Operations_Crisis_Response_Plan.pdf – Full operational response plan 
+- Compliance_Provisoning_Decision.md – Bonus decision note 
 
